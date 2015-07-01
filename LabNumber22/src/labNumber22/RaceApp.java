@@ -22,8 +22,11 @@ public class RaceApp {
 				tortoise.interrupt();
 			else if (winner.getName().equals("Tortoise"))
 				hare.interrupt();
-
+			
+			System.out.println("Git Change");
 		}
+		
+		
 	}
 
 
